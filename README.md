@@ -28,4 +28,4 @@ DOM manipulation techniques like getElementById
 These files are deployed using GitHub Pages, allowing you to preview the work directly in your browser.
 
 🌐 GitHub Pages Link
-Visit the site here: [https://mitha-037.github.io/javascript-practice/](https://mitha-037.github.io/javascript-practice)
+Visit the site here: [https://mitha-037.github.io/javascript-practice/](https://github.com/mitha-037/javascript-practice.git)
