@@ -7,12 +7,15 @@ Click the links below to view the live pages via GitHub Pages:
 
 Question 1 – Change Paragraph Text
 This page demonstrates how to change a paragraph’s text content using JavaScript when the page loads.
+ (https://mitha-037.github.io/javascript-practice/index.html)
 
 Question 2 – Number Checker
 This page lets users enter a number and checks if it's greater than or less than 10.
+https://mitha-037.github.io/javascript-practice/task2.html
 
 Question 3 – Loop Output 
 This page uses a for loop to display numbers from 1 to 5 dynamically in the browser.
+https://mitha-037.github.io/javascript-practice/task3.html
 
 🔧 How It Works
 Each .html file includes:
